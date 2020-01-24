@@ -1,1 +1,10 @@
-- What have i learned this second lecture...
+Answer, or reflect upon, the following questions. Write freely, between 15 to 30  sentences.
+- Have you any previous experience of HTML, CSS and/or JavaScript?
+- Explain the role of HTML, CSS and JavaScript in web development.
+- Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.
+- What is your TIL for this course section?
+
+-----------------------------------------------------------------------------------------------
+
+- I have no previous experience with HTML, CSS and JavaScript other than being familiar with them, knowing how they look like and how they work. So i guess it's safe to say i familiar with them but
+not actual experience with them. I have not worked with them like i have now in this course. 
