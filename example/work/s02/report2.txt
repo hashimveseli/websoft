@@ -1,8 +1,4 @@
-Answer, or reflect upon, the following questions. Write freely, between 15 to 30  sentences.
-- Have you any previous experience of HTML, CSS and/or JavaScript?
-- Explain the role of HTML, CSS and JavaScript in web development.
-- Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.
-- What is your TIL for this course section?
+Report S02
 
 -----------------------------------------------------------------------------------------------
 
@@ -12,4 +8,4 @@ not actual experience with them. I have not worked with them like i have now in 
 CSS is more like 'rules' applied to a HTML document that you have in a external file whereas HTML is what you write when developing a website. Then you have JavaScript which is a dynamic programming language that can provide
 dynamic interactivity on websites. Summary: all of these work together to provide the best website possible.
 - The browser is just an "application" you use to be able to reach the web and to read websites. Web servers are just computers who run websites and HTTP Protocol was designed for communication between web browsers and web servers.
-- Today I Learned a lot actually! I learned how to interact with HTML, CSS and JavaScript. How to work with a markup program to create a website.
+- Today I Learned a lot actually! I learned how to interact with HTML, CSS and JavaScript. How to work with a markup program (Atom) to create a website and how to add links and pictures to a website.
